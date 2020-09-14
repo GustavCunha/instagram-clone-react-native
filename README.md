@@ -1,6 +1,7 @@
 <h3 align="center">
-	Clone do Feed do Instagram <br/>
     <img src="./src/assets/logo.png" alt="Instagram" />
+    <br/> <br/> <br/>
+	Clone do Feed do Instagram  
 </h3>
 
 <p align="center">
