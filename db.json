@@ -1,0 +1,51 @@
+{
+    "feed":[
+        {
+            "id": 1,
+            "image": "https://cdn.pixabay.com/photo/2018/07/26/07/45/valais-3562988_960_720.jpg",
+            "small": "",
+            "aspectRatio": 0.834,
+            "description": "731 Haring Street, Rosewood, Arizona, 5786",
+            "authorId": 1
+        },
+        {
+            "id": 2,
+            "image": "https://cdn.pixabay.com/photo/2020/06/26/17/16/daisies-5343423_960_720.jpg",
+            "small": "",
+            "aspectRatio": 0.834,
+            "description": "748 Royce Street, Joppa, Pennsylvania, 5284",
+            "authorId": 1
+        },
+        {
+            "id": 3,
+            "image": "https://cdn.pixabay.com/photo/2017/12/08/12/25/berlin-3005717_960_720.jpg",
+            "small": "",
+            "aspectRatio": 0.834,
+            "description": "458 Conover Street, Bethpage, Michigan, 4120",
+            "authorId": 1
+        },
+        {
+            "id": 4,
+            "image": "https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_960_720.jpg",
+            "small": "",
+            "aspectRatio": 0.834,
+            "description": "171 Danforth Street, Glenbrook, Iowa, 4238",
+            "authorId": 1
+        },
+        {
+            "id": 5,
+            "image": "https://cdn.pixabay.com/photo/2016/06/23/03/26/coffee-grains-1474601_960_720.jpg",
+            "small": "",
+            "aspectRatio": 0.834,
+            "description": "742 Varanda Place, Enlow, District Of Columbia, 3937",
+            "authorId": 1
+        }
+    ],
+    "authors": [
+        {
+            "id": 1,
+            "name": "Gustavo",
+            "avatar": "https://instagram.fssa15-1.fna.fbcdn.net/v/t51.2885-19/s150x150/76800637_2239282296171225_8144607652329029632_n.jpg?_nc_ht=instagram.fssa15-1.fna.fbcdn.net&_nc_ohc=wsE3Sv4VEksAX9Shh1G&oh=c3a880f40f2749a771edc7d68b601cf9&oe=5F8725F1"
+        }
+    ]
+}
